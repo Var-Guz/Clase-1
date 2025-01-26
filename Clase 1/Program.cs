@@ -9,5 +9,8 @@ ave.Especie = "Amazona";
 ave.Color = "Verde";
 ave.Tamano = 30.5;
 ave.Habitat = "Bosques tropicales";
+ave.Familia.Nombre = "Psittacidae";
+ave.Familia.NumeroEspecie = "393";
+ave.Familia.Caracteristicas = "aves coloridas";
 ave.Imprimir();
 
