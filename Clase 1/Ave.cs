@@ -19,6 +19,7 @@ namespace Clase_1
 
         public void Imprimir()
         {
+            
             Console.WriteLine($"Nombre: {Nombre}");
             Console.WriteLine($"Especie: {Especie}");
             Console.WriteLine($"Color: {Color}");
@@ -27,6 +28,7 @@ namespace Clase_1
             Console.WriteLine($"Familia: {Familia.Nombre}");
             Console.WriteLine($"Numero de Especies: {Familia.NumeroEspecie}");
             Console.WriteLine($"Caracteristicas: {Familia.Caracteristicas}");
+            Console.WriteLine();
         }
     }
 }
